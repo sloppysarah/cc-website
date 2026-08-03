@@ -1,0 +1,23 @@
+header {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+div {
+    line-height: 0;
+}
+
+body {
+    line-height: 0.5;
+    font-size: 15px;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+#desc {
+    font-size: 10px;
+}
+
